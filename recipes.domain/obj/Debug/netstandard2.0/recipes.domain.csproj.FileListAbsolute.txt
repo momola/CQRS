@@ -1,0 +1,8 @@
+E:\projekty\CQRS1\recipes.domain\bin\Debug\netstandard2.0\recipes.domain.deps.json
+E:\projekty\CQRS1\recipes.domain\bin\Debug\netstandard2.0\recipes.domain.dll
+E:\projekty\CQRS1\recipes.domain\bin\Debug\netstandard2.0\recipes.domain.pdb
+E:\projekty\CQRS1\recipes.domain\obj\Debug\netstandard2.0\recipes.domain.csproj.CoreCompileInputs.cache
+E:\projekty\CQRS1\recipes.domain\obj\Debug\netstandard2.0\recipes.domain.AssemblyInfoInputs.cache
+E:\projekty\CQRS1\recipes.domain\obj\Debug\netstandard2.0\recipes.domain.AssemblyInfo.cs
+E:\projekty\CQRS1\recipes.domain\obj\Debug\netstandard2.0\recipes.domain.dll
+E:\projekty\CQRS1\recipes.domain\obj\Debug\netstandard2.0\recipes.domain.pdb

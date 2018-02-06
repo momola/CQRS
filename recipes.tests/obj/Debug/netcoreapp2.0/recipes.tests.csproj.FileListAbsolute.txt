@@ -1,0 +1,15 @@
+E:\projekty\CQRS1\recipes.tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\projekty\CQRS1\recipes.tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+E:\projekty\CQRS1\recipes.tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+E:\projekty\CQRS1\recipes.tests\bin\Debug\netcoreapp2.0\recipes.tests.deps.json
+E:\projekty\CQRS1\recipes.tests\bin\Debug\netcoreapp2.0\recipes.tests.runtimeconfig.json
+E:\projekty\CQRS1\recipes.tests\bin\Debug\netcoreapp2.0\recipes.tests.runtimeconfig.dev.json
+E:\projekty\CQRS1\recipes.tests\bin\Debug\netcoreapp2.0\recipes.tests.dll
+E:\projekty\CQRS1\recipes.tests\bin\Debug\netcoreapp2.0\recipes.tests.pdb
+E:\projekty\CQRS1\recipes.tests\bin\Debug\netcoreapp2.0\recipes.domain.dll
+E:\projekty\CQRS1\recipes.tests\bin\Debug\netcoreapp2.0\recipes.domain.pdb
+E:\projekty\CQRS1\recipes.tests\obj\Debug\netcoreapp2.0\recipes.tests.csproj.CoreCompileInputs.cache
+E:\projekty\CQRS1\recipes.tests\obj\Debug\netcoreapp2.0\recipes.tests.AssemblyInfoInputs.cache
+E:\projekty\CQRS1\recipes.tests\obj\Debug\netcoreapp2.0\recipes.tests.AssemblyInfo.cs
+E:\projekty\CQRS1\recipes.tests\obj\Debug\netcoreapp2.0\recipes.tests.dll
+E:\projekty\CQRS1\recipes.tests\obj\Debug\netcoreapp2.0\recipes.tests.pdb

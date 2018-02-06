@@ -1,0 +1,12 @@
+E:\projekty\CQRS1\recipes.website\bin\Debug\netcoreapp2.0\recipes.website.deps.json
+E:\projekty\CQRS1\recipes.website\bin\Debug\netcoreapp2.0\recipes.website.runtimeconfig.json
+E:\projekty\CQRS1\recipes.website\bin\Debug\netcoreapp2.0\recipes.website.runtimeconfig.dev.json
+E:\projekty\CQRS1\recipes.website\bin\Debug\netcoreapp2.0\recipes.website.dll
+E:\projekty\CQRS1\recipes.website\bin\Debug\netcoreapp2.0\recipes.website.pdb
+E:\projekty\CQRS1\recipes.website\bin\Debug\netcoreapp2.0\recipes.domain.dll
+E:\projekty\CQRS1\recipes.website\bin\Debug\netcoreapp2.0\recipes.domain.pdb
+E:\projekty\CQRS1\recipes.website\obj\Debug\netcoreapp2.0\recipes.website.csproj.CoreCompileInputs.cache
+E:\projekty\CQRS1\recipes.website\obj\Debug\netcoreapp2.0\recipes.website.AssemblyInfoInputs.cache
+E:\projekty\CQRS1\recipes.website\obj\Debug\netcoreapp2.0\recipes.website.AssemblyInfo.cs
+E:\projekty\CQRS1\recipes.website\obj\Debug\netcoreapp2.0\recipes.website.dll
+E:\projekty\CQRS1\recipes.website\obj\Debug\netcoreapp2.0\recipes.website.pdb
